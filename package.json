@@ -1,0 +1,34 @@
+{
+  "name": "index",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^1.5.1",
+    "core-js": "^3.8.3",
+    "echarts": "^4.9.0",
+    "element-ui": "^2.15.14",
+    "js-cookie": "^3.0.5",
+    "normalize.css": "^8.0.1",
+    "qs": "^6.11.2",
+    "uuid": "^9.0.1",
+    "vue": "^2.6.14",
+    "vue-baidu-map": "^0.21.22",
+    "vue-contextmenu": "^1.5.11",
+    "vue-router": "^3.6.5",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
